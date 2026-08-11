@@ -24,4 +24,4 @@ Git/GitHub
 
 A página desenvolvida apresenta informações sobre o filme Nós (Us), incluindo seu ano de produção, diretor, duração, classificação indicativa, gênero e país de origem. Também contém uma imagem relacionada ao filme, uma breve sinopse e um link para uma página com mais informações.
 
-O projeto foi desenvolvido com o objetivo de praticar a utilização das principais tags HTML, como <title>, <h1>, <h2>, <p>, <img> e <a>, seguindo a estrutura proposta na atividade.
+O projeto foi desenvolvido com o objetivo de praticar a utilização das principais tags HTML, como `<title>`, `<h1>`, `<h2>`, `<p>`, `<img>` e `<a>`, seguindo a estrutura proposta na atividade.
